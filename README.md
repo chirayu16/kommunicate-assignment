@@ -33,7 +33,7 @@ To run the Advice Generator App locally, follow these steps:
 
 ## Usage
 
-- Click the "Get Advice" button to fetch a random piece of advice from the API.
+- Click the button to fetch a random piece of advice from the API.
 - The advice number and text will be displayed.
 
 ## License
