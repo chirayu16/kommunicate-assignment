@@ -27,7 +27,7 @@ To run the Advice Generator App locally, follow these steps:
 
 2. **Navigate to the project directory**:
    ```bash
-   cd advice-generator-app
+   cd kommunicate-assignment
 
 3. **Open index.html in your web browser: You can simply double-click the file or right-click and select "Open with" and choose your browser.**
 
