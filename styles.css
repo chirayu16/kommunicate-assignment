@@ -1,0 +1,66 @@
+:root {
+  /* Primary Colors */
+  --light-cyan: hsl(193, 38%, 86%);
+  --neon-green: hsl(150, 100%, 66%);
+
+  /* Neutral Colors */
+  --grayish-blue: hsl(217, 19%, 38%);
+  --dark-grayish-blue: hsl(217, 19%, 24%);
+  --dark-blue: hsl(218, 23%, 16%);
+}
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  margin: 0;
+  background-color: var(--dark-blue);
+  font-family: "Manrope", sans-serif;
+}
+
+.container {
+  text-align: center;
+  padding: 12px;
+  background: var(--dark-grayish-blue);
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  width: 300px;
+}
+
+.advice-number {
+    color: var(--neon-green);
+    font-size: 10px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+
+.advice-text {
+    font-size: 28px;
+    color: var(--light-cyan);
+    margin: 15px 0;
+}
+
+.divider {
+  margin-bottom: 20px;
+}
+
+.advice-btn {
+  background-color: var(--neon-green);
+  border: none;
+  border-radius: 50%;
+  margin: 0 auto -37px auto;
+  width: 50px;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  padding: 0;
+}
+
+@media (min-width: 768px) {
+  .advice-btn:hover {
+    box-shadow: 0 0px 20px var(--neon-green);
+  }
+}
