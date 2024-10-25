@@ -2,7 +2,7 @@
 
 ## Overview
 
-The **Advice Generator App** is a simple web application that fetches and displays random pieces of advice using the [Advice Slip API](https://api.adviceslip.com/advice). The app is built with HTML, CSS, and vanilla JavaScript, making it a great project for beginners to practice their front-end development skills.
+The **Advice Generator App** is a simple web application that fetches and displays random pieces of advice using the [Advice Slip API](https://api.adviceslip.com). The app is built with HTML, CSS, and vanilla JavaScript, making it a great project for beginners to practice their front-end development skills.
 
 ## Features
 
@@ -15,7 +15,7 @@ The **Advice Generator App** is a simple web application that fetches and displa
 - HTML
 - CSS
 - Vanilla JavaScript
-- [Advice Slip API](https://api.adviceslip.com/advice)
+- [Advice Slip API](https://api.adviceslip.com)
 
 ## Getting Started
 
